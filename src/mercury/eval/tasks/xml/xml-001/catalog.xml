@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bk:catalog xmlns:bk="http://example.com/books" xmlns:pub="http://example.com/publisher">
+  <bk:book isbn="978-0-13-468599-1">
+    <bk:title>The Pragmatic Programmer</bk:title>
+    <bk:author>
+      <bk:name>David Thomas</bk:name>
+      <bk:nationality>British</bk:nationality>
+    </bk:author>
+    <pub:publisher>Addison-Wesley</pub:publisher>
+    <bk:price currency="USD">49.99</bk:price>
+    <bk:year>2019</bk:year>
+  </bk:book>
+  <bk:book isbn="978-0-596-51774-8">
+    <bk:title>JavaScript: The Good Parts</bk:title>
+    <bk:author>
+      <bk:name>Douglas Crockford</bk:name>
+      <bk:nationality>American</bk:nationality>
+    </bk:author>
+    <pub:publisher>O'Reilly Media</pub:publisher>
+    <bk:price currency="USD">29.99</bk:price>
+    <bk:year>2008</bk:year>
+  </bk:book>
+  <bk:book isbn="978-1-49-195016-0">
+    <bk:title>Fluent Python</bk:title>
+    <bk:author>
+      <bk:name>Luciano Ramalho</bk:name>
+      <bk:nationality>Brazilian</bk:nationality>
+    </bk:author>
+    <pub:publisher>O'Reilly Media</pub:publisher>
+    <bk:price currency="USD">59.99</bk:price>
+    <bk:year>2022</bk:year>
+  </bk:book>
+  <bk:book isbn="978-0-13-235088-4">
+    <bk:title>Clean Code</bk:title>
+    <bk:author>
+      <bk:name>Robert C. Martin</bk:name>
+      <bk:nationality>American</bk:nationality>
+    </bk:author>
+    <pub:publisher>Prentice Hall</pub:publisher>
+    <bk:price currency="USD">39.99</bk:price>
+    <bk:year>2008</bk:year>
+  </bk:book>
+  <bk:book isbn="978-1-09-813989-0">
+    <bk:title>Designing Data-Intensive Applications</bk:title>
+    <bk:author>
+      <bk:name>Martin Kleppmann</bk:name>
+      <bk:nationality>German</bk:nationality>
+    </bk:author>
+    <pub:publisher>O'Reilly Media</pub:publisher>
+    <bk:price currency="USD">44.99</bk:price>
+    <bk:year>2017</bk:year>
+  </bk:book>
+</bk:catalog>

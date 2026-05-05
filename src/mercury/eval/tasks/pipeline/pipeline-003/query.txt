@@ -1,0 +1,1 @@
+Find all refund transactions in Q3 2024 (July 1 to September 30) where the amount exceeds 5000 and the category is Electronics.

@@ -1,0 +1,4 @@
+timestamp,exception_type,message
+2024-10-10 13:55:40,ValueError,invalid literal for int() with base 10: 'abc'
+2024-10-10 13:56:01,ConnectionError,"pool exhausted, no slots available"
+2024-10-10 13:56:30,AssertionError,age must be positive

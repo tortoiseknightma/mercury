@@ -1,0 +1,25 @@
+2024-10-10 13:55:36 INFO  Starting application
+2024-10-10 13:55:37 INFO  Loaded config from /etc/app.yml
+2024-10-10 13:55:40 ERROR Request failed
+Traceback (most recent call last):
+  File "/app/handler.py", line 42, in handle
+    result = parse(payload)
+  File "/app/parser.py", line 17, in parse
+    return int(s)
+ValueError: invalid literal for int() with base 10: 'abc'
+2024-10-10 13:55:42 INFO  Recovered from error
+2024-10-10 13:55:50 WARN  High latency detected
+2024-10-10 13:56:01 ERROR DB connection lost
+Traceback (most recent call last):
+  File "/app/db.py", line 88, in connect
+    self.conn = pool.acquire()
+  File "/app/pool.py", line 33, in acquire
+    raise ConnectionError("pool exhausted, no slots available")
+ConnectionError: pool exhausted, no slots available
+2024-10-10 13:56:05 INFO  Reconnecting
+2024-10-10 13:56:30 ERROR User input failed validation
+Traceback (most recent call last):
+  File "/app/validate.py", line 12, in check
+    assert age > 0, "age must be positive"
+AssertionError: age must be positive
+2024-10-10 13:56:32 INFO  Returning 400 to client

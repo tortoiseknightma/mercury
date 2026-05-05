@@ -1,0 +1,30 @@
+﻿﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Tech News Feed</title>
+<item>
+  <title>Python 3.13 Released with &amp; New Features</title>
+  <link>https://example.com/python313</link>
+  <pubDate>Mon, 15 Jan 2024 10:00:00 GMT</pubDate>
+  <description><![CDATA[Python 3.13 brings <b>exciting</b> new features including pattern matching improvements &amp; faster execution.]]></description>
+</item>
+<item>
+  <title>AI Agents &mdash; The Next Frontier</title>
+  <link>https://example.com/ai-agents
+  <pubDate>Wed, 20 Feb 2024 14:30:00 GMT</pubDate>
+  <description>The rise of autonomous <i>AI agents</i> is transforming how we build &amp; deploy software systems.</description>
+</item>
+<item>
+  <title>Rust vs Go: 2024 Comparison</title>
+  <link>https://example.com/rust-vs-go</link>
+  <pubDate>Fri, 01 Mar 2024 09:15:00 GMT</pubDate>
+  <description><![CDATA[A comprehensive <strong>comparison</strong> of Rust and Go for systems programming & web backends.]]></description>
+</item>
+<item>
+  <title>Database Trends &amp; Predictions</title>
+  <link>https://example.com/db-trends</link>
+  <pubDate>Sun, 10 Mar 2024 16:45:00 GMT</pubDate>
+  <description>Vector databases, NewSQL, and the return of <em>stored procedures</em> &mdash; what&apos;s next for data storage?</description>
+</item>
+</channel>
+</rss>

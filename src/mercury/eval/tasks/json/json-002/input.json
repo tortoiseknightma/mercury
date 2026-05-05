@@ -1,0 +1,6 @@
+[
+  {"id": 1, "user": {"name": "Alice", "address": {"city": "Tokyo", "country": "Japan"}}, "score": 92},
+  {"id": 2, "user": {"name": "Bob", "address": {"city": "Berlin", "country": "Germany"}}, "score": 78},
+  {"id": 3, "user": {"name": "Charlie", "address": {"city": "Paris", "country": "France"}}, "score": 88},
+  {"id": 4, "user": {"name": "Dana", "address": {"city": "Madrid", "country": "Spain"}}, "score": 95}
+]

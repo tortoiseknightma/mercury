@@ -1,0 +1,7 @@
+192.168.1.10 - - [10/Oct/2024:13:55:36 +0000] "GET /index.html HTTP/1.1" 200 2326 "-" "Mozilla/5.0"
+192.168.1.10 - - [10/Oct/2024:13:55:38 +0000] "GET /favicon.ico HTTP/1.1" 404 153 "-" "Mozilla/5.0"
+10.0.0.5 - - [10/Oct/2024:13:56:01 +0000] "POST /api/login HTTP/1.1" 200 87 "https://example.com/" "curl/7.81"
+10.0.0.5 - - [10/Oct/2024:13:56:02 +0000] "GET /api/profile HTTP/1.1" 401 42 "-" "curl/7.81"
+203.0.113.7 - - [10/Oct/2024:13:57:14 +0000] "GET /static/app.js HTTP/2.0" 200 18472 "https://example.com/" "Mozilla/5.0"
+203.0.113.7 - - [10/Oct/2024:13:57:15 +0000] "GET /static/app.css HTTP/2.0" 304 0 "https://example.com/" "Mozilla/5.0"
+192.168.1.10 - - [10/Oct/2024:13:58:00 +0000] "GET /robots.txt HTTP/1.1" 200 28 "-" "Googlebot/2.1"

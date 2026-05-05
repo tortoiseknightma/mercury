@@ -1,0 +1,6 @@
+isbn,title,author_name,author_nationality,publisher,price,year
+978-0-13-468599-1,The Pragmatic Programmer,David Thomas,British,Addison-Wesley,49.99,2019
+978-0-596-51774-8,JavaScript: The Good Parts,Douglas Crockford,American,O'Reilly Media,29.99,2008
+978-1-49-195016-0,Fluent Python,Luciano Ramalho,Brazilian,O'Reilly Media,59.99,2022
+978-0-13-235088-4,Clean Code,Robert C. Martin,American,Prentice Hall,39.99,2008
+978-1-09-813989-0,Designing Data-Intensive Applications,Martin Kleppmann,German,O'Reilly Media,44.99,2017

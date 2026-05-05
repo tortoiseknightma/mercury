@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# uv
+.uv/
+uv.lock
+
+# Env
+.env
+.env.local
+
+# Mercury runtime artifacts
+results/
+*.db
+*.db-journal
+
+# Skills (generated; commit only manually curated baselines if any)
+src/mercury/skills/library/*/
+!src/mercury/skills/library/.gitkeep
+
+# Local scratch / plans
+scratch/
+plans/
+
+# AI assistant context
+.claude/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
